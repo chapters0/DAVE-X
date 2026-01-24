@@ -25,6 +25,8 @@
     "@ffmpeg/ffmpeg": "^0.12.15",
     "@hapi/boom": "^10.0.1",
     "@types/node": "^20.0.0",
+    "@google/generative-ai": "^0.24.0",
+    "@vitalets/google-translate-api": "^9.2.1",
    "@whiskeysockets/baileys": "npm:veron-baileys@latest",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
