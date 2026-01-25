@@ -1,6 +1,6 @@
 {
   "name": "Dave-x",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "description": "Simple nodejs WhatsApp Bot by Dave Tech",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "@types/node": "^20.0.0",
     "@google/generative-ai": "^0.24.0",
     "@vitalets/google-translate-api": "^9.2.1",
-          "@whiskeysockets/baileys": "github:xhclintohn/Baileys",
+        "@whiskeysockets/baileys": "^7.0.0-rc.9",
     "awesome-phonenumber": "^5.9.0",
     "axios": "^1.8.4",
     "chalk": "^4.1.2",
