@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dave-sessions.onrender.com/pair/">
+  <a href="https://davex-session.onrender.com/">
     <img src="https://img.shields.io/badge/Get-Pair_Code-purple?style=for-the-badge&logo=whatsapp" alt="Get Pair Code" width="200">
   </a>
 
